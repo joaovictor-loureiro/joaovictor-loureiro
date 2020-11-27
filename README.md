@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João 👋
 
-Sou um estudante de Engenharia de Software na UTFPR :man_student:
+Sou um estudante de Engenharia de Software na UTFPR :student:
 
 <hr/>
 
@@ -8,9 +8,10 @@ Sou um estudante de Engenharia de Software na UTFPR :man_student:
 
 <a href="#!"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a> <a href="#!"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></a> <a href="#!"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a> <a href="#!"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a> <a href="#!"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)]()
+### Atualmente estou aprendendo :technologist:
 
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="#!"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+
 
 [![HitCount](http://hits.dwyl.com/joaovictor-loureiro/joaovictor-loureiro.svg)](http://hits.dwyl.com/joaovictor-loureiro/joaovictor-loureiro)
 
