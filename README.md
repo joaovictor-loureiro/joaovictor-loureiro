@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/joaovictor-loureiro/joaovictor-loureiro.svg)](http://hits.dwyl.com/joaovictor-loureiro/joaovictor-loureiro)
+
 <!--
 **joaovictor-loureiro/joaovictor-loureiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
