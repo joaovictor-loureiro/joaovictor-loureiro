@@ -15,6 +15,6 @@ Sou um estudante de Engenharia de Software na UTFPR :student:
 ### Me encontre em outros lugares :loudspeaker:
 <a href="#!"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="#!"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="#!"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-
-[![HitCount](http://hits.dwyl.com/joaovictor-loureiro/joaovictor-loureiro.svg)](http://hits.dwyl.com/joaovictor-loureiro/joaovictor-loureiro)
-
+<p align="right">
+  [![HitCount](http://hits.dwyl.com/joaovictor-loureiro/joaovictor-loureiro.svg)](http://hits.dwyl.com/joaovictor-loureiro/joaovictor-loureiro)
+</p>
