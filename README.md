@@ -17,6 +17,6 @@ Sou um estudante de Engenharia de Software na UTFPR :student:
 
 <p align="right">
   
-[![HitCount](http://hits.dwyl.com/joaovictor-loureiro/joaovictor-loureiro.svg)](http://hits.dwyl.com/joaovictor-loureiro/joaovictor-loureiro)
+    [![HitCount](http://hits.dwyl.com/joaovictor-loureiro/joaovictor-loureiro.svg)](http://hits.dwyl.com/joaovictor-loureiro/joaovictor-loureiro)
 
 </p>
