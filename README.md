@@ -1,4 +1,4 @@
-### Olá! Eu sou o João 👋
+## Olá! Eu sou o João 👋
 
 Sou um estudante de Engenharia de Software na UTFPR :man_student:
 
@@ -6,7 +6,7 @@ Sou um estudante de Engenharia de Software na UTFPR :man_student:
 
 ### Conhecimentos :bulb:
 
-<a href="#!"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a> <a href="#!"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a> <a href="#!"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></a> <a href="#!"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a> <a href="#!"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a> <a href="#!"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)]()
 
