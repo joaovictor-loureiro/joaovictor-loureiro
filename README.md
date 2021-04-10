@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João 👋
 
-Sou um estudante de Engenharia de Software na UTFPR e Aprendiz em Data Science :student:
+Sou um estudante de Ciência de Dados:student:
 </br>Dê uma olhada em meus projetos <a href="https://github.com/joaovictor-loureiro/data-science">[repositório]</a> :white_check_mark:
 
 [![HitCount](http://hits.dwyl.com/joaovictor-loureiro/joaovictor-loureiro.svg)](http://hits.dwyl.com/joaovictor-loureiro/joaovictor-loureiro)
